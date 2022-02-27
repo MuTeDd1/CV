@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://sun9-84.userapi.com/impg/5Y5iCpmmnQxwabK2sx_sESGL6saF-vg5ZRmqiw/3h-01rkrAg0.jpg?size=2560x1707&quality=96&sign=091c73dc0b66100274514c54f2995f30&type=album);
+}
+.photo img {
+    margin:5px;
+    padding:3 px;  
+     box-shadow: 4px 4px 14px black;
+    border-radius: 10px;
+    border:solid;
+    border-color:rgb(47, 70, 47);
+}
